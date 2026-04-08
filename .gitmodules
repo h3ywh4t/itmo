@@ -1,3 +1,3 @@
-[submodule "https:/github.com/h3ywh4t/itmo/tree/main/year-3/embedded-systems/lab-03/project"]
-	path = https:/github.com/h3ywh4t/itmo/tree/main/year-3/embedded-systems/lab-03/project
+[submodule "year-3/embedded-systems/lab-03/project"]
+	path = year-3/embedded-systems/lab-03/project
 	url = https://github.com/h3ywh4t/embedded-systems-lab-3
