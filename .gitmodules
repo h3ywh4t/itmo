@@ -1,6 +1,6 @@
 [submodule "year-3/embedded-systems/lab-03/project"]
 	path = year-3/embedded-systems/lab-03/project
 	url = https://github.com/h3ywh4t/embedded-systems-lab-3
-[submodule "year-2/embedded-systems/lab-02/project"]
-	path = year-2/embedded-systems/lab-02/project
+[submodule "year-3/embedded-systems/lab-02/project"]
+	path = year-3/embedded-systems/lab-02/project
 	url = https://github.com/h3ywh4t/embedded-systems-lab-2
