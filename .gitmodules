@@ -4,3 +4,6 @@
 [submodule "year-3/embedded-systems/lab-02/project"]
 	path = year-3/embedded-systems/lab-02/project
 	url = https://github.com/h3ywh4t/embedded-systems-lab-2
+[submodule "year-4/database-application-refactoring"]
+	path = year-4/database-application-refactoring
+	url = https://github.com/h3ywh4t/rbdip-h3ywh4t.git
